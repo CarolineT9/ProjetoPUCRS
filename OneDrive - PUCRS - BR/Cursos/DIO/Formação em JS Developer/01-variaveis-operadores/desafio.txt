@@ -1,0 +1,22 @@
+Fça um programa para cacular o valode de uma viagem
+
+vc ter 3 variáveis, sendo elas:
+1 - preço do combustível
+2 -  gasto médio de combustível do carro km;
+3 - distancia em km da viagem
+
+
+Imprima no console o valor que será gasto de combustível para realizar esta viagem.
+
+
+
+resposta:
+
+supondo que a viagem tem 273 km e meu carro faz 15/l 
+preço gasol. é 5,29
+
+15 --- 1
+273 ---x
+
+custo = distancia/gastomedcomb * preço da gasolina
+
